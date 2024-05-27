@@ -1,0 +1,30 @@
+{
+  "sushiswap": {
+    "v2": {
+      "1": {
+        "routerAddress": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F"
+      }
+    },
+    "v3": {
+      "1": {
+        "factoryAddress": "0xbACEB8eC6b9355Dfc0269C18bac9d6E2Bdc29C4F",
+        "quoterAddress": "0x61fFE014bA17989E743c5F6cB21bF9697530B21e",
+        "routerAddress": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F"
+      }
+    }
+  },
+  "uniswap": {
+    "v2": {
+      "1": {
+        "routerAddress": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+      }
+    },
+    "v3": {
+      "1": {
+        "factoryAddress": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+        "quoterAddress": "0x61fFE014bA17989E743c5F6cB21bF9697530B21e",
+        "routerAddress": "0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45"
+      }
+    }
+  }
+}
